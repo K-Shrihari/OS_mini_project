@@ -1,0 +1,3 @@
+# Malformed on purpose: line 3 has a non-numeric burst
+1 0 5 3
+2 1 abc 1
